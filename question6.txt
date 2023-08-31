@@ -1,0 +1,7 @@
+Select the hypothetical investment portfolio that would be most likely to meet your return expectations
+in "average" and "good" years without making you uncomfortable during periods of declining values:
+A. Portfolio A - MAX: 6%; AVG: 4%; MIN: 3%
+B. Portfolio B - MAX: 8%; AVG: 5%; MIN: -1%
+C. Portfolio C - MAX: 10%; AVG: 6%; MIN: -5%
+D. Portfolio D - MAX: 20%; AVG: 9%; MIN: -15%
+E. Portfolio E - MAX: 30%; AVG: 12%; MIN: -25%

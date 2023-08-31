@@ -1,0 +1,11 @@
+Given your financial objectives, how much volatility (risk) are you willing to assume to achieve
+your portfolio’s expected return?:
+A. Zero volatility – I cannot tolerate negative returns, stability of returns is essential
+B. Low volatility – I can tolerate very little variability of returns and can accept negative
+returns 1 in every 7 years
+C. Medium volatility – I can tolerate some variability of returns and can accept negative returns
+1 in every 4 years
+D. Medium to High volatility – I can tolerate variability of returns and can accept negative
+returns 1 in every 2 years
+E. Higher volatility – I am unconcerned with variability of returns and primarily focused on long
+term growth

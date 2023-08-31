@@ -1,0 +1,6 @@
+Select investment objectives that apply the most to your portfolio:
+A. Maintain existing capital: low risk/low reward
+B. Income generation
+C. Balance of income and growth
+D. Growth of capital
+E. Aggressive capital appreciation
